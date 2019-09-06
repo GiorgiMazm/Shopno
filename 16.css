@@ -194,8 +194,7 @@ header {
     padding-top: 40px;
     padding-bottom: 40px; }
     .s3-wrapper img, .s5-wrapper img {
-      width: 100%;
-      height: auto; } }
+      } }
 @media screen and (min-width: 1150px) {
   .s3-wrapper, .s5-wrapper {
     display: flex;
